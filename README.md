@@ -52,17 +52,10 @@ My Portfolio: https://www.farisdanial.my/
 
 
 # 📊 GitHub Stats:
-<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=FarisDnial&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=FarisDnial&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FarisDnial&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=FarisDnial&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="48%" height="170" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=FarisDnial&theme=dark&hide_border=false" width="48%" height="170" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarisDnial&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="48%" height="170" />
-
-</div>
-v>
 
 
 
