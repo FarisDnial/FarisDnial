@@ -7,12 +7,12 @@
 
 - 🔭 I’m currently working on **Website and Web Application Projects**
 - 🌱 I’m currently learning **NextJS and Typescript**
-- 👯 I’m looking to collaborate on **Fullstack Web Application Development**
 - 🤔 I’m looking for **4-6 months Web Development Internship**
 - 📫 How to reach me: **faris.danial.fauzi@gmail.com**
 
 ## About Me
 👨‍💻Aspire to become a Full stack developer, contributing to both the rapid growth of IT and Halal industries. <br />
+
 🌠Currently, I'm fully immersed in the coding world, actively advancing my knowledge in ReactJS, Typescript, SQL and more through Sigma School! I am motivated to keep growing and contribute significantly to the constantly changing tech scene on this coding journey.
 
 My Portfolio: https://www.farisdanial.my/
