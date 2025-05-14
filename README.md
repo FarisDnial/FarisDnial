@@ -1,11 +1,9 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farisdnial&label=Profile%20views&color=0e75b6&style=flat" alt="farisdnial" /> </p>
-
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Faris+Danial!;" />
 </h1>
 
-- 🔭 I’m currently working on **Website and Web Application Projects**
+- 🔭 I’m currently working on **Website and Web Application Side Projects**
 - 🌱 I’m currently learning **NextJS and Typescript**
 - 🤔 I’m looking for **4-6 months Web Development Internship**
 - 📫 How to reach me: **faris.danial.fauzi@gmail.com**
